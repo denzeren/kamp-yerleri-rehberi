@@ -1,6 +1,6 @@
 # Kamp Yerleri Rehberi
 
-Bu proje, kullanıcıların kamp yerlerini keşfetmelerine yardımcı olan bir React uygulamasıdır.
+Bu bir kamp yerleri rehberi uygulamasıdır.
 
 ## Özellikler
 - Kamp yerleri hakkında bilgi.
